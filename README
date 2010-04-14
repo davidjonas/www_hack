@@ -1,0 +1,14 @@
+www_hack
+========
+
+www_hack is a creative intervention onto specific web sites. A script installed on the host site allows all visitors to a single page to observe each others mouse movements at any one time. 
+On a technical level, the work is based on a javascript that contacts a server where all the individual mouse positions are stored, displaying all the cursors in ‘real-time’. 
+Users experience the virtual presence of others, as controlled by a server. 
+
+Web platforms are being promoted as a privileged arena for emerging communities and open collaborations. 
+‘www_hack’, on the other hand, aims at exposing the internal architecture of the web as well as the protocols that reflect a server client hegemony in which users are separated from information and from each other. 
+The project demonstrates that the server-client relationship is not open as such, nor free from power structures. 
+Indeed, all clients are subject to the ‘dictatorship’ of a server which is intrinsic to web architecture. 
+
+Powered by JSBroadcast ( http://github.com/davidjonas/JSBroadcast )
+
